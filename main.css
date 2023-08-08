@@ -1,0 +1,10 @@
+a{
+    color:blueviolet;
+}
+/* a:visited
+{
+    color:black;
+} */
+a:hover, a:active{
+    color: black;
+}
